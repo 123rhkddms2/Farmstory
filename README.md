@@ -1,2 +1,1 @@
-# farmstory
-farmstory 4팀 
+aplication.yml은 개인이 보관
